@@ -1,0 +1,65 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&family=Inter:wght@400;700&family=Baloo+Bhai+2:wght@700&display=swap');
+
+/* Nanum Gothic */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+
+/* Nanum Square - Using alternative from Google Fonts if unavailable */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+
+/* Font family aliases for Figma imports */
+@font-face {
+  font-family: 'NanumGothic:Bold';
+  src: local('Nanum Gothic Bold'), local('NanumGothic-Bold');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Noto_Sans_KR:Regular';
+  src: local('Noto Sans KR Regular'), local('NotoSansKR-Regular');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Noto_Sans_KR:Bold';
+  src: local('Noto Sans KR Bold'), local('NotoSansKR-Bold');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NanumSquare:Bold';
+  src: local('Nanum Gothic Bold'), local('NanumGothic-Bold');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter:Regular';
+  src: local('Inter Regular'), local('Inter-Regular');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter:Bold';
+  src: local('Inter Bold'), local('Inter-Bold');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Baloo_Bhai_2:Bold';
+  src: local('Baloo Bhai 2 Bold'), local('BalooBhai2-Bold');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Noto_Sans:Regular';
+  src: local('Noto Sans Regular'), local('NotoSans-Regular');
+  font-weight: 400;
+  font-style: normal;
+}
